@@ -32,7 +32,7 @@ ALLOWED_HOSTS = [
     'localhost',
     'https://beatrisemazj-8000.theiadockernext-0-labs-prod-'
     'theiak8s-4-tor01.proxy.cognitiveclass.ai'
-]
+    ]
 CSRF_TRUSTED_ORIGINS = [
     'https://beatrisemazj-8000.theiadockernext-0-labs-prod-'
     'theiak8s-4-tor01.proxy.cognitiveclass.ai'
